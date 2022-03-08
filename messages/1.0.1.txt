@@ -1,0 +1,13 @@
+
+#################################################################################################
+
+  Align Comments
+
+#################################################################################################
+
+1.0.1 Incremental Change
+Add in a Main.sublime-menu file to plug-in to enter the align comment command to the edit menu.
+
+This version removes the need for a hand edit of the main menu file to add the align comment
+command. This has been added in with the existing toggle comment commands.This technique was copied
+from the TortoiseSVN package.

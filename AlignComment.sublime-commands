@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "AlignComment: Add a single comment at a set column or align existing in-line comments",
+    "command": "align_comment"
+  }
+]

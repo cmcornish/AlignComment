@@ -1,0 +1,16 @@
+[
+    {
+        "id": "edit",
+        "children":
+        [
+            {
+                "id": "comment",
+                "children":
+                [
+                    { "command": "align_comment", "caption": "Align or Add In-line Comment" }
+                ]
+            }
+        ]
+    },
+
+]
